@@ -1,6 +1,6 @@
 # CA2RXU LoRa APRS iGate/Digipeater
 
-* This contains custom edits to the ESP32_DIY_LoRa build to work on ESP32 DevKit v1 (DOIT / WROOM-32D) with an AI-Thinker Ra-01SC and GY-NEO6M GPS unit *
+* This fork by AD5NL contains custom edits to the ESP32_DIY_LoRa build to work on ESP32 DevKit v1 (DOIT / WROOM-32D) with an AI-Thinker Ra-01SC and GY-NEO6M GPS unit 
 
 This firmware is for using ESP32 based boards with LoRa Modules and GPS to live in the APRS world.
 
